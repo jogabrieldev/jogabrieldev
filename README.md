@@ -38,6 +38,16 @@ Me chamo João Gabriel de Jesus Cunha, tenho 22 anos e sou de Goiânia, Goiás. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+ <img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+          
 <img 
     align="left" 
     alt="React"
