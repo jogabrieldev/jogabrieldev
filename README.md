@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Gabriel de Jesus Cunha, tenho 22 anos e sou de Goiânia, Goiás. Atualmente, curso Análise e Desenvolvimento de Sistemas na PUCGO. Para conhecer mais sobre meu trabalho e trajetória, acesse meu portfólio "[PORTIFOLIO](https://joaog.dev.br/)".
+Me chamo João Gabriel de Jesus Cunha, tenho 23 anos e sou de Goiânia, Goiás. Atualmente, curso Análise e Desenvolvimento de Sistemas na PUCGO. Para conhecer mais sobre meu trabalho e trajetória, acesse meu portfólio "[PORTIFOLIO](https://joaog.dev.br/)".
 
 ### 🤖 Linguagens e Tecnologias
 
