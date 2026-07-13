@@ -1,9 +1,20 @@
-# 👩🏻‍💻 João Gabriel 
+# 👨🏻‍💻 João Gabriel
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Full Stack | Node.js • Java • Angular • React`**
 
-Me chamo João Gabriel de Jesus Cunha, tenho 23 anos e sou de Goiânia, Goiás. Sou desenvolvedor Fullstack com experiência na criação de soluções robusta para web e dispositivos
-móveis, Atualmente curso Análise e Desenvolvimento de Sistemas na PUCGO. Para conhecer mais sobre meu trabalho e trajetória, acesse meu portfólio "[PORTIFOLIO](https://joaog.dev.br/)".
+Olá! Sou **João Gabriel de Jesus Cunha**, desenvolvedor Full Stack de **Goiânia - GO**, apaixonado por tecnologia e por desenvolver soluções que resolvem problemas reais.
+
+Sou **Técnico em Desenvolvimento de Sistemas** pelo **SENAI FATESG** e atualmente curso **Análise e Desenvolvimento de Sistemas** na **PUC Goiás**.
+
+Tenho experiência profissional no desenvolvimento de aplicações **Web** e **Mobile**, atuando em projetos para os setores **financeiro, contábil, ERP e sistemas corporativos**, trabalhando tanto com **Front-end** quanto **Back-end**.
+
+Ao longo da minha trajetória participei da criação de sistemas completos, integração com APIs REST e SOAP, automações, arquiteturas escaláveis e aplicações multi-tenant, sempre buscando aplicar boas práticas como **Clean Code**, **SOLID** e **Arquitetura Limpa**.
+
+Além da experiência em empresas, também desenvolvo **projetos freelancers**, criando soluções sob medida para clientes, desde o levantamento de requisitos até a implantação em produção.
+
+🚀 Atualmente estou buscando evoluir cada vez mais como desenvolvedor, contribuindo em projetos desafiadores e compartilhando conhecimento com a comunidade.
+
+🌐 **Portfólio:** https://joaog.dev.br/
 
 ### 🤖 Linguagens e Tecnologias
 
