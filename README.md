@@ -50,7 +50,14 @@ Além da experiência em empresas, também desenvolvo **projetos freelancers**, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Oracle Cloud" 
+    title="Oracle Cloud"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+/>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -101,7 +108,14 @@ Além da experiência em empresas, também desenvolvo **projetos freelancers**, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
 /> 
-
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
 <img 
     align="left" 
     alt="Bootstrap"
