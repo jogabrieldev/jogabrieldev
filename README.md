@@ -4,11 +4,11 @@
 
 Olá! Sou **João Gabriel de Jesus Cunha**, desenvolvedor Full Stack de **Goiânia - GO**, apaixonado por tecnologia e por desenvolver soluções que resolvem problemas reais.
 
-Sou formado em **Técnico em Desenvolvimento** na ** Faculdade FATESG** e atualmente curso **Análise e Desenvolvimento de Sistemas** na **PUC Goiás**.
+Sou formado em **Técnico em Desenvolvimento** na **Faculdade FATESG** e atualmente curso **Análise e Desenvolvimento de Sistemas** na **PUC Goiás**.
 
-Tenho experiência profissional no desenvolvimento de aplicações **Web** e **Mobile**, atuando em projetos para os setores **financeiro, contábil, ERP e sistemas corporativos**, trabalhando tanto com **Front-end** quanto **Back-end**.
+Tenho experiência profissional no desenvolvimento de aplicações **Web** e **Mobile**, atuando em projetos para os setores **financeiro, contábil, Fiscal, ERP e sistemas corporativos**, trabalhando tanto com **Front-end** quanto **Back-end**.
 
-Ao longo da minha trajetória participei da criação de sistemas completos, integração com APIs REST e SOAP, automações, arquiteturas escaláveis e aplicações multi-tenant, sempre buscando aplicar boas práticas como **Clean Code**, **SOLID** e **Arquitetura Limpa**.
+Ao longo da minha trajetória participei da criação de sistemas completos, integração com APIs REST e SOAP, automações de processos, arquiteturas escaláveis e aplicações multi-tenant, sempre buscando aplicar boas práticas como **Clean Code**, **SOLID** e **Arquitetura Limpa**.
 
 Além da experiência em empresas, também desenvolvo **projetos freelancers**, criando soluções sob medida para clientes, desde o levantamento de requisitos até a implantação em produção.
 
