@@ -1,18 +1,20 @@
-# 👨🏻‍💻 João Gabriel
+👋 Olá! Sou João Gabriel
 
-**`Desenvolvedor Full Stack | Node.js • Java • Angular • React`**
+Sou Desenvolvedor Full Stack, de Goiânia - GO, com foco em Back-end Java, desenvolvimento de APIs, integrações e sistemas corporativos.
 
-Olá! Sou **João Gabriel de Jesus Cunha**, desenvolvedor Full Stack de **Goiânia - GO**, apaixonado por tecnologia e por desenvolver soluções que resolvem problemas reais.
+🎓 Formado em Técnico em Desenvolvimento pela FATESG e atualmente cursando Análise e Desenvolvimento de Sistemas na PUC Goiás.
 
-Sou formado em **Técnico em Desenvolvimento** na **Faculdade FATESG** e atualmente curso **Análise e Desenvolvimento de Sistemas** na **PUC Goiás**.
+💻 Tenho experiência no desenvolvimento de aplicações Web e Mobile, atuando em soluções para os setores financeiro, contábil, fiscal e ERPs, participando desde a implementação de funcionalidades até integrações e evolução de sistemas.
 
-Tenho experiência profissional no desenvolvimento de aplicações **Web** e **Mobile**, atuando em projetos para os setores **financeiro, contábil, Fiscal, ERP e sistemas corporativos**, trabalhando tanto com **Front-end** quanto **Back-end**.
+⚙️ Minha atuação envolve principalmente Java, Spring Boot, Node.js, TypeScript, Angular, React, PostgreSQL e Docker, além da construção e integração de APIs REST e SOAP, automações, mensageria e aplicações multi-tenant.
 
-Ao longo da minha trajetória participei da criação de sistemas completos, integração com APIs REST e SOAP, automações de processos, arquiteturas escaláveis e aplicações multi-tenant, sempre buscando aplicar boas práticas como **Clean Code**, **SOLID** e **Arquitetura Limpa**.
+🏗️ Busco desenvolver soluções organizadas, escaláveis e de fácil manutenção, aplicando princípios como SOLID, Clean Code e Arquitetura Limpa.
 
-Além da experiência em empresas, também desenvolvo **projetos freelancers**, criando soluções sob medida para clientes, desde o levantamento de requisitos até a implantação em produção.
+🚀 Também desenvolvo projetos próprios e freelancers, explorando conceitos de Cloud, microsserviços, mensageria, concorrência, performance e arquitetura de software.
 
-🚀 Atualmente estou buscando evoluir cada vez mais como desenvolvedor, contribuindo em projetos desafiadores e compartilhando conhecimento com a comunidade.
+🎯 Atualmente
+
+Aprofundando meus conhecimentos no ecossistema Java + Spring, Cloud e arquitetura Back-end, enquanto construo projetos para transformar estudos e conceitos em implementações práticas.
 
 🌐 **Portfólio:** https://joaog.dev.br/
 
